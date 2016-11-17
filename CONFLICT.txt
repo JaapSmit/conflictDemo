@@ -11,3 +11,12 @@ En nog een regel
 Dit een een tekstbestandje (jaap)
 
 Dit is een beter tekstbestandje (pieter)
+
+
+
+
+
+Nieuw tekstje na nieuwe branch
+
+
+Nog een tweede tekst op mijn nieuwe branch, nadat de vorige is gecommit
