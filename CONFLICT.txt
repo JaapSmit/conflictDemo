@@ -1,1 +1,4 @@
-Dit een een tekstbestandje (jaap)
+Ook nog ff een regel eerder toevoegen
+Dit een een tekstbestandje en deze regel aanpassen (jaap)
+Ik ga hier tekst toevoegen
+en nog een regel
